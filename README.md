@@ -1,4 +1,4 @@
-# ignite-lab-nodejs
+# Ignite Lab Nodejs
 Ignite Lab | Rocketseat.
 
 <h2>Concepts</h2>
